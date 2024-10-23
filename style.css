@@ -237,6 +237,9 @@ h3 {
   display: inline-block;
 }
 
+.projects-list div a:hover {
+  color: #000000;
+}
 .projects-list div:hover {
   background: linear-gradient(rgba(0, 255, 255, 0.3), rgba(0, 255, 255, 0.7));
   transform: translateY(-10px);
